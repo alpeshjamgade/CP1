@@ -10,7 +10,7 @@ int main() {
 		map<char, int> mp;
 		while(n--) {
 			char c; int v; cin >> c >> v;
-			mp[c] = v;
+			mp[c] = v;	
 		}
 		int m;
 		cin >> m;
